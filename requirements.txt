@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mss
+screeninfo
+PyQt6
+pyinstaller
